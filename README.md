@@ -1,7 +1,7 @@
 # Power BI Data Analysis Project
 
 ## Overview
-Power BI is a popular data visualization tool within the Microsoft ecosystem. This project analyzes spending data on various goods across different locations to determine the most cost-effective shopping strategy.
+This project serves as a demonstration of what Power BI can do rather than providing a step-by-step guide to creating the visuals.
 
 ## Dataset Description
 
@@ -37,6 +37,11 @@ The Power BI dashboard will visualize:
 - **Product-wise spending per store** to analyze price variations across different locations.
 - **Monthly spending trends** to see if costs fluctuate over time.
 
+## Prerequisites
+Before using this project, ensure you have the following installed:
+- **Power BI Desktop**: Download and install from [Microsoft Power BI](https://powerbi.microsoft.com/)
+- **Excel or CSV Viewer**: To inspect the datasets before loading them into Power BI
+
 ## How to Use
 1. Clone this repository:  
    ```bash
@@ -52,4 +57,10 @@ This project helps in making **data-driven shopping decisions** by identifying t
 [Alex the Analyst](https://www.youtube.com/@AlexTheAnalyst)
 
 ## License
+This project is open-source under the [MIT License](LICENSE).
+
+## Contact
+For any collaborations or requests, reach out at:
+- **Email:** gachuiristeve@gmail.com
+- **WhatsApp:** +254725171634
 This project is open-source under the [MIT License](LICENSE).
