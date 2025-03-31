@@ -49,7 +49,7 @@ The Power BI dashboard will visualize:
 This project helps in making **data-driven shopping decisions** by identifying the best store for overall savings or strategic product-based shopping.
 
 ## Author
-AlexTheAnalyst: https://github.com/AlexTheAnalyst
+[Alex the Analyst](https://www.youtube.com/@AlexTheAnalyst)(https://github.com/AlexTheAnalyst)
 
 ## License
 This project is open-source under the [MIT License](LICENSE).
