@@ -4,11 +4,11 @@
 Power BI is a popular data visualization tool within the Microsoft ecosystem. This project analyzes spending data on various goods across different locations to determine the most cost-effective shopping strategy.
 
 ## Dataset Description
-The dataset includes information on purchases of the following goods:
-- **Bottled Water**
-- **Canned Vegetables**
-- **Dried Beans**
-- **Rice**
+
+**Note:** The dataset contains dummy data for demonstration purposes. There are different Excel files containing different datasets.
+
+### Example Dataset:
+- **First Apocalypse Food Prep** (Excel contains: Bottled Water, Canned Vegetables, Dried Beans, and Rice.)
 
 These products were purchased from three different retailers:
 - **Walmart**
@@ -40,7 +40,7 @@ The Power BI dashboard will visualize:
 ## How to Use
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/Steve-gachuiri/Power-BI.
+   git clone https://github.com/Steve-gachuiri/Power-BI.git
    ```
 2. Open the Power BI file (`.pbix`) in Power BI Desktop.
 3. Explore the interactive dashboard and insights.
@@ -49,7 +49,7 @@ The Power BI dashboard will visualize:
 This project helps in making **data-driven shopping decisions** by identifying the best store for overall savings or strategic product-based shopping.
 
 ## Author
-[Alex the Analyst](https://www.youtube.com/@AlexTheAnalyst)(https://github.com/AlexTheAnalyst)
+[Alex the Analyst](https://www.youtube.com/@AlexTheAnalyst)
 
 ## License
 This project is open-source under the [MIT License](LICENSE).
